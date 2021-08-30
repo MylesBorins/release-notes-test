@@ -4,6 +4,8 @@ testing new changelog feature
 
 current syntax:
 
+`.github/release.yml`
+
 ```yml
 changelog:
   categories:
