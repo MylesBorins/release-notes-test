@@ -1,6 +1,6 @@
-# changelog-test
+# release-notes-test
 
-testing new changelog feature
+testing new release notes feature
 
 current syntax:
 
