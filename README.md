@@ -2,8 +2,6 @@
 
 testing new release notes feature
 
-current syntax:
-
 `.github/release.yml`
 
 ```yml
