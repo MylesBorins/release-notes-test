@@ -3,12 +3,24 @@ changelog:
   - title: Breaking Changes
     labels:
     - breaking-change
-  - title: Features 
+  - title: Features
     labels:
     - feature
-  - title: Bug fixes 
+    - enhancement
+  - title: Bug fixes
     labels:
     - bug
+  - title: Docs
+    labels:
+    - docs
+    - documentation
+  - title: Refactor
+    labels:
+    - refactor
+  - title: Config
+    labels:
+    - config
+    - configuration
   - title: Other Changes
     labels:
        - "*"
