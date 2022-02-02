@@ -17,6 +17,10 @@ changelog:
   - title: Refactor
     labels:
     - refactor
+  - title: Config
+    labels:
+    - config
+    - configuration
   - title: Other Changes
     labels:
        - "*"
