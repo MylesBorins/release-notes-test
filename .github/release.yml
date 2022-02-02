@@ -12,6 +12,9 @@ changelog:
   - title: Docs
     labels:
     - docs
+  - title: Refactor
+    labels:
+    - refactor
   - title: Other Changes
     labels:
        - "*"
