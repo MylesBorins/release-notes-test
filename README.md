@@ -69,7 +69,7 @@ Generally speaking most of our projects start out using a [Main Branch Workflow]
 In this branching strategy the main branch always contains production-ready code and all other branches will start from and merge back into the main branch. This is a strategy popularized by [github flow](https://githubflow.github.io/) that is well suited for small teams, CI/CD, & web projects. This workflow is how we typically start our projects.
 
 ### diagram
-![Github Flow Diagram](/github-flow-diagram.svg)
+![Github Flow Diagram](/assets/github-flow-diagram.svg)
 
 ### Limitations of the Main Branch Workflow
 
@@ -88,7 +88,7 @@ When the main branch is at a point it's ready to be updated again -- ie QA has f
 **IMPORTANT** while it's good practice to continually be generating change logs / versioning during development it is especially important at this time (see [Auto generate release notes from within the github UI](#auto-generate-release-notes-from-within-the-github-ui))
 
 ### diagram
-![Git Flow Diagram](/git-flow-diagram.svg)
+![Git Flow Diagram](/assets/git-flow-diagram.svg)
 
 Drawbacks to the Develop Branch Workflow:
 
@@ -105,7 +105,7 @@ Drawbacks to the Develop Branch Workflow:
 * _PATCH_
   * backwards compatible bug fixes & trivial updates
 
-![Semantic Versioning Structure](/semvar-structure.png)
+![Semantic Versioning Structure](/assets/semvar-structure.png)
 
 
 
